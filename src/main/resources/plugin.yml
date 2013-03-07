@@ -1,0 +1,3 @@
+main: com.thinghunter.heightmapgenerator.HeightMap
+name: HeightMap
+version: 1.0
